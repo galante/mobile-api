@@ -1,0 +1,26 @@
+{
+  "name": "mobile-api",
+  "version": "1.0.0",
+  "description": "Mobile Catalog API",
+  "main": "app.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galante/mobile-api.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "D Galante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galante/mobile-api/issues"
+  },
+  "homepage": "https://github.com/galante/mobile-api"
+}
